@@ -1,0 +1,1 @@
+Compilador: GNU GCC Compiler
